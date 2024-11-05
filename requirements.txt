@@ -1,0 +1,7 @@
+pandas
+ace-tools
+faker
+scikit-learn
+numpy
+joblib
+flask
