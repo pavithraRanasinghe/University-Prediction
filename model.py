@@ -46,8 +46,11 @@ for prob in y_pred_probs:
 # Fetch the associated universities for each predicted program
 predictions_with_universities = []
 for pred_list in predictions:
-    university_list = [y_train[y_train['Recommended_Program'] == program]['University'].iloc[0] for program in pred_list]
-    predictions_with_universities.append(list(zip(pred_list, university_list)))
+    universities_list = []
+    for program in pred_list:
+        universities = y_train[y_train['Recommended_Program'] == program]['University'].unique().tolist()
+        universities_list.append({"Program": program, "Universities": universities})
+    predictions_with_universities.append(universities_list)
 
 # Step 5: Cosine Similarity for Ranking
 # Normalize the test data
@@ -66,7 +69,7 @@ for i, pred in enumerate(predictions_with_universities[:5]):
     print(f"Sample {i+1} Top {top_n} Recommended Programs and Universities: {pred}")
 
 # Evaluate accuracy based on top prediction from Random Forest
-y_pred_top_1 = [pred[0][0] for pred in predictions_with_universities]
+y_pred_top_1 = [pred[0]['Program'] for pred in predictions_with_universities]
 accuracy = accuracy_score(y_test['Recommended_Program'], y_pred_top_1)
 print("Model Accuracy (Top 1 Prediction):", accuracy)
 print("Classification Report (Top 1 Prediction):\n", classification_report(y_test['Recommended_Program'], y_pred_top_1))

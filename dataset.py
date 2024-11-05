@@ -5,7 +5,7 @@ import random
 # Initialize Faker
 fake = Faker()
 
-# Create synthetic dataset with over 100 records
+# Create synthetic dataset with over 200 records (to ensure multiple universities per program)
 data = {
     "Interests": [],
     "Strengths": [],
@@ -30,8 +30,8 @@ universities = [
     "Rajarata University", "Wayamba University", "University of Peradeniya", "Eastern University", "South Eastern University"
 ]
 
-# Generate 100 records
-for _ in range(100):
+# Generate 200 records, ensuring multiple universities per program
+for _ in range(200):
     data["Interests"].append(random.choice(interests))
     data["Strengths"].append(random.choice(strengths))
     data["Career_Goals"].append(random.choice(career_goals))
@@ -39,8 +39,9 @@ for _ in range(100):
     data["Completed_AL"].append(random.choice(["Yes", "No"]))
     data["Highest_Qualification"].append(random.choice(qualifications))
     program = random.choice(recommended_programs)
+    university = random.choice(universities)
     data["Recommended_Program"].append(program)
-    data["University"].append(random.choice(universities))
+    data["University"].append(university)
 
 # Create a DataFrame
 df = pd.DataFrame(data)

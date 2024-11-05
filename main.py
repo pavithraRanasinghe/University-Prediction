@@ -13,7 +13,7 @@ train_columns = joblib.load('train_columns.pkl')
 
 # Load the dataset to map programs to universities
 df = pd.read_csv('synthetic_university_dataset.csv')
-program_university_mapping = df.set_index('Recommended_Program')['University'].to_dict()
+program_university_mapping = df.groupby('Recommended_Program')['University'].unique().to_dict()
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -32,9 +32,12 @@ def predict():
     top_indices = y_pred_probs[0].argsort()[-10:][::-1]
     top_recommendations = [model.classes_[index] for index in top_indices]
     
-    # Fetch associated universities
+    # Fetch associated universities for each predicted program
     top_recommendations_with_universities = [
-        {"Program": program, "University": program_university_mapping.get(program, "Unknown")}
+        {
+            "Program": program,
+            "Universities": program_university_mapping.get(program, []).tolist()  # Convert ndarray to list
+        }
         for program in top_recommendations
     ]
     
