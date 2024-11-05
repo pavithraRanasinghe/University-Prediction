@@ -1,101 +1,101 @@
-Interests,Strengths,Career_Goals,Completed_OL,Completed_AL,Highest_Qualification,Recommended_Program
-Science,Literature,Teacher,Yes,Yes,O/L,BCom Accounting
-Arts,Engineering,Engineer,Yes,Yes,O/L,BCom Accounting
-Arts,History,Engineer,Yes,Yes,O/L,BSc Chemistry
-Science,Mathematics,Historian,Yes,No,High School,BSc Data Science
-Technology,Literature,Historian,Yes,Yes,O/L,BSc Chemistry
-Commerce,Mathematics,Data Scientist,Yes,Yes,High School,BCom Accounting
-Arts,Literature,Data Scientist,Yes,No,O/L,BSc Chemistry
-Technology,History,Data Scientist,Yes,Yes,High School,BA History
-Technology,Literature,Engineer,Yes,No,O/L,MBBS
-Arts,Literature,Historian,Yes,Yes,O/L,BSc Chemistry
-Science,Economics,Software Developer,Yes,Yes,High School,BA Education
-Technology,Physics,Economist,Yes,Yes,O/L,BSc Computer Science
-Science,Mathematics,Engineer,Yes,No,High School,BCom Accounting
-Technology,History,Teacher,Yes,No,O/L,BA History
-Arts,History,Economist,Yes,No,High School,BSc Economics
-Commerce,Physics,Historian,Yes,Yes,High School,BSc Data Science
-Technology,Biology,Historian,Yes,No,High School,BCom Accounting
-Technology,History,Doctor,Yes,No,O/L,BA Education
-Science,Computer Science,Researcher,Yes,Yes,O/L,BSc Data Science
-Commerce,History,Data Scientist,Yes,No,High School,BA History
-Commerce,Biology,Economist,Yes,No,O/L,BSc Chemistry
-Arts,Economics,Accountant,Yes,Yes,O/L,BSc Engineering
-Science,Physics,Accountant,Yes,No,High School,BSc Engineering
-Technology,Computer Science,Doctor,Yes,Yes,O/L,BSc Chemistry
-Arts,Accounting,Historian,Yes,No,High School,BSc Engineering
-Commerce,Biology,Researcher,Yes,No,O/L,MBBS
-Science,History,Historian,Yes,No,O/L,BA History
-Science,Literature,Historian,Yes,No,High School,BSc Data Science
-Arts,Physics,Accountant,Yes,No,High School,BSc Chemistry
-Science,Computer Science,Researcher,Yes,Yes,High School,MBBS
-Arts,Mathematics,Economist,Yes,Yes,High School,BSc Chemistry
-Commerce,Literature,Engineer,Yes,Yes,O/L,BSc Engineering
-Arts,History,Engineer,Yes,No,High School,BSc Economics
-Technology,Computer Science,Economist,Yes,Yes,O/L,BA History
-Commerce,Computer Science,Doctor,Yes,No,High School,BA Education
-Science,Computer Science,Doctor,Yes,Yes,O/L,BSc Engineering
-Technology,Literature,Software Developer,Yes,Yes,High School,BCom Accounting
-Science,Accounting,Teacher,Yes,No,High School,BA History
-Science,Engineering,Engineer,Yes,Yes,High School,BA Education
-Arts,Economics,Software Developer,Yes,Yes,High School,BA History
-Commerce,Engineering,Economist,Yes,No,High School,BA History
-Science,Literature,Historian,Yes,Yes,O/L,BSc Computer Science
-Technology,Biology,Historian,Yes,Yes,High School,BSc Data Science
-Technology,Biology,Doctor,Yes,No,High School,BSc Economics
-Science,Literature,Accountant,Yes,Yes,High School,BSc Computer Science
-Technology,Chemistry,Doctor,Yes,Yes,High School,BCom Accounting
-Technology,Chemistry,Software Developer,Yes,No,O/L,BCom Accounting
-Arts,Economics,Historian,Yes,No,O/L,BSc Engineering
-Commerce,Chemistry,Teacher,Yes,Yes,High School,BSc Data Science
-Commerce,Literature,Doctor,Yes,Yes,High School,BSc Computer Science
-Science,Engineering,Accountant,Yes,Yes,O/L,BSc Chemistry
-Technology,Accounting,Data Scientist,Yes,Yes,High School,MBBS
-Science,Engineering,Economist,Yes,No,High School,BSc Computer Science
-Arts,Economics,Engineer,Yes,No,High School,BSc Economics
-Commerce,Computer Science,Doctor,Yes,Yes,O/L,BSc Economics
-Commerce,Computer Science,Economist,Yes,Yes,High School,BSc Economics
-Science,Economics,Economist,Yes,Yes,High School,BA Education
-Technology,Mathematics,Accountant,Yes,No,High School,BSc Data Science
-Commerce,Engineering,Data Scientist,Yes,Yes,High School,BSc Computer Science
-Arts,Literature,Engineer,Yes,No,High School,BA History
-Commerce,Biology,Software Developer,Yes,Yes,O/L,BSc Data Science
-Commerce,Economics,Doctor,Yes,Yes,High School,BSc Computer Science
-Commerce,Physics,Researcher,Yes,Yes,High School,MBBS
-Technology,Accounting,Accountant,Yes,Yes,High School,BA Education
-Arts,Economics,Economist,Yes,Yes,O/L,BA History
-Science,Literature,Accountant,Yes,Yes,O/L,BSc Chemistry
-Technology,Biology,Historian,Yes,Yes,O/L,BSc Engineering
-Science,Computer Science,Historian,Yes,Yes,High School,BA History
-Science,Biology,Data Scientist,Yes,Yes,High School,BA History
-Technology,Computer Science,Accountant,Yes,Yes,O/L,BSc Data Science
-Arts,Economics,Economist,Yes,No,O/L,BSc Computer Science
-Technology,Physics,Doctor,Yes,No,O/L,BCom Accounting
-Science,Engineering,Data Scientist,Yes,No,High School,BCom Accounting
-Arts,Mathematics,Software Developer,Yes,No,O/L,BSc Chemistry
-Commerce,Mathematics,Economist,Yes,Yes,O/L,BSc Economics
-Arts,Computer Science,Data Scientist,Yes,No,O/L,BA Education
-Science,Economics,Teacher,Yes,No,High School,BA Education
-Science,Engineering,Historian,Yes,Yes,O/L,BSc Economics
-Technology,History,Data Scientist,Yes,Yes,O/L,MBBS
-Technology,Literature,Data Scientist,Yes,Yes,O/L,MBBS
-Arts,Chemistry,Historian,Yes,No,High School,BCom Accounting
-Technology,Accounting,Software Developer,Yes,Yes,O/L,MBBS
-Technology,Literature,Teacher,Yes,No,O/L,BSc Economics
-Science,Engineering,Engineer,Yes,No,O/L,MBBS
-Technology,Engineering,Economist,Yes,No,O/L,BA Education
-Commerce,Computer Science,Teacher,Yes,No,High School,BA History
-Science,Engineering,Software Developer,Yes,No,O/L,BA History
-Technology,History,Researcher,Yes,No,High School,MBBS
-Science,Economics,Engineer,Yes,No,O/L,BSc Data Science
-Science,Chemistry,Teacher,Yes,Yes,High School,BCom Accounting
-Science,Accounting,Software Developer,Yes,Yes,High School,BA Education
-Technology,Literature,Accountant,Yes,Yes,High School,BSc Computer Science
-Science,Economics,Engineer,Yes,Yes,O/L,BSc Engineering
-Commerce,Economics,Researcher,Yes,Yes,High School,BA Education
-Arts,History,Engineer,Yes,No,High School,BSc Engineering
-Commerce,Economics,Researcher,Yes,No,O/L,BSc Computer Science
-Arts,Chemistry,Teacher,Yes,No,O/L,BSc Computer Science
-Technology,Chemistry,Teacher,Yes,No,O/L,BA History
-Science,Engineering,Doctor,Yes,Yes,O/L,BSc Computer Science
-Commerce,Economics,Software Developer,Yes,No,High School,BA History
+Interests,Strengths,Career_Goals,Completed_OL,Completed_AL,Highest_Qualification,Recommended_Program,University
+Technology,Mathematics,Researcher,Yes,Yes,High School,BSc Economics,University of Peradeniya
+Commerce,Biology,Economist,Yes,No,High School,BSc Chemistry,University of Sri Jayewardenepura
+Science,Economics,Engineer,Yes,No,High School,BSc Computer Science,University of Moratuwa
+Arts,Engineering,Software Developer,Yes,No,High School,BSc Economics,Eastern University
+Technology,Chemistry,Engineer,Yes,Yes,O/L,BSc Engineering,Eastern University
+Arts,Chemistry,Researcher,Yes,No,O/L,BA Education,University of Kelaniya
+Technology,History,Teacher,Yes,No,High School,MBBS,South Eastern University
+Science,Economics,Doctor,Yes,Yes,O/L,BSc Data Science,University of Peradeniya
+Arts,Mathematics,Doctor,Yes,No,High School,BA Education,University of Sri Jayewardenepura
+Arts,Accounting,Historian,Yes,Yes,O/L,BSc Computer Science,University of Kelaniya
+Commerce,Literature,Engineer,Yes,Yes,O/L,BSc Computer Science,Rajarata University
+Arts,Engineering,Software Developer,Yes,No,O/L,BSc Chemistry,South Eastern University
+Commerce,Chemistry,Researcher,Yes,Yes,High School,BSc Chemistry,Rajarata University
+Science,History,Researcher,Yes,No,High School,MBBS,University of Moratuwa
+Science,Physics,Teacher,Yes,Yes,High School,BSc Data Science,University of Colombo
+Technology,Chemistry,Data Scientist,Yes,Yes,O/L,BA Education,South Eastern University
+Science,Chemistry,Researcher,Yes,Yes,High School,MBBS,University of Sri Jayewardenepura
+Science,Chemistry,Engineer,Yes,Yes,High School,BA Education,University of Peradeniya
+Technology,Mathematics,Accountant,Yes,Yes,High School,BSc Economics,Wayamba University
+Technology,Mathematics,Economist,Yes,Yes,High School,BSc Chemistry,University of Sri Jayewardenepura
+Arts,History,Historian,Yes,Yes,High School,BA History,University of Peradeniya
+Technology,Engineering,Doctor,Yes,Yes,O/L,BSc Engineering,University of Peradeniya
+Science,Chemistry,Historian,Yes,No,O/L,BA History,Rajarata University
+Science,Chemistry,Data Scientist,Yes,Yes,O/L,BSc Economics,South Eastern University
+Arts,Accounting,Historian,Yes,Yes,High School,BCom Accounting,Wayamba University
+Arts,Mathematics,Data Scientist,Yes,Yes,High School,BA History,South Eastern University
+Commerce,Engineering,Accountant,Yes,Yes,O/L,BSc Engineering,University of Kelaniya
+Arts,Engineering,Data Scientist,Yes,Yes,High School,BSc Engineering,University of Sri Jayewardenepura
+Technology,Engineering,Engineer,Yes,Yes,High School,BSc Engineering,University of Kelaniya
+Arts,Accounting,Engineer,Yes,Yes,High School,BSc Chemistry,University of Sri Jayewardenepura
+Technology,History,Teacher,Yes,No,O/L,BA Education,Wayamba University
+Technology,History,Engineer,Yes,Yes,High School,BSc Computer Science,University of Sri Jayewardenepura
+Arts,Physics,Engineer,Yes,Yes,High School,BSc Data Science,Wayamba University
+Arts,Chemistry,Accountant,Yes,Yes,High School,BCom Accounting,University of Sri Jayewardenepura
+Commerce,Engineering,Researcher,Yes,Yes,High School,BSc Engineering,University of Moratuwa
+Arts,History,Researcher,Yes,Yes,O/L,BSc Chemistry,University of Colombo
+Technology,Computer Science,Researcher,Yes,No,O/L,BA Education,South Eastern University
+Commerce,Accounting,Teacher,Yes,No,High School,BA Education,Eastern University
+Arts,Computer Science,Economist,Yes,Yes,High School,BA History,Wayamba University
+Arts,Accounting,Accountant,Yes,No,O/L,BSc Economics,University of Kelaniya
+Commerce,History,Data Scientist,Yes,No,High School,BA Education,University of Sri Jayewardenepura
+Arts,Biology,Software Developer,Yes,No,O/L,BSc Economics,Wayamba University
+Science,Literature,Doctor,Yes,Yes,O/L,BSc Data Science,University of Colombo
+Commerce,Computer Science,Doctor,Yes,Yes,High School,BSc Engineering,Wayamba University
+Science,Engineering,Teacher,Yes,Yes,High School,BA Education,University of Moratuwa
+Science,Chemistry,Economist,Yes,No,O/L,BSc Data Science,Wayamba University
+Commerce,Chemistry,Researcher,Yes,Yes,High School,BSc Economics,Rajarata University
+Science,Physics,Accountant,Yes,Yes,O/L,BSc Economics,Eastern University
+Commerce,History,Engineer,Yes,Yes,O/L,BSc Computer Science,University of Kelaniya
+Science,Accounting,Historian,Yes,Yes,High School,BA Education,University of Moratuwa
+Technology,Literature,Teacher,Yes,Yes,O/L,BSc Computer Science,University of Moratuwa
+Technology,History,Engineer,Yes,No,High School,BSc Data Science,University of Colombo
+Arts,Physics,Accountant,Yes,No,High School,BSc Data Science,Wayamba University
+Commerce,Physics,Accountant,Yes,No,O/L,BSc Computer Science,University of Moratuwa
+Commerce,Biology,Accountant,Yes,No,High School,BSc Computer Science,University of Moratuwa
+Commerce,Literature,Teacher,Yes,Yes,O/L,MBBS,South Eastern University
+Arts,Chemistry,Data Scientist,Yes,No,High School,BSc Economics,Wayamba University
+Technology,Accounting,Accountant,Yes,Yes,O/L,BSc Economics,South Eastern University
+Arts,Economics,Accountant,Yes,No,High School,BSc Computer Science,South Eastern University
+Commerce,Physics,Engineer,Yes,No,High School,BSc Computer Science,Wayamba University
+Technology,Economics,Teacher,Yes,No,High School,BSc Engineering,Wayamba University
+Commerce,Computer Science,Accountant,Yes,Yes,High School,MBBS,South Eastern University
+Commerce,Biology,Accountant,Yes,Yes,High School,BA History,University of Peradeniya
+Commerce,Biology,Data Scientist,Yes,No,High School,BSc Economics,Rajarata University
+Science,Accounting,Data Scientist,Yes,No,O/L,BSc Economics,University of Moratuwa
+Commerce,Biology,Engineer,Yes,No,High School,MBBS,Eastern University
+Commerce,Computer Science,Accountant,Yes,Yes,High School,MBBS,University of Kelaniya
+Science,Economics,Software Developer,Yes,Yes,O/L,BSc Engineering,University of Peradeniya
+Arts,Engineering,Data Scientist,Yes,Yes,O/L,BA History,University of Sri Jayewardenepura
+Commerce,Mathematics,Accountant,Yes,No,O/L,BSc Computer Science,University of Moratuwa
+Commerce,Computer Science,Researcher,Yes,Yes,O/L,BSc Data Science,University of Colombo
+Science,Computer Science,Data Scientist,Yes,Yes,High School,BSc Computer Science,Rajarata University
+Arts,Accounting,Economist,Yes,Yes,O/L,BA Education,University of Kelaniya
+Science,Mathematics,Teacher,Yes,Yes,High School,BSc Computer Science,University of Peradeniya
+Commerce,Economics,Doctor,Yes,Yes,High School,BA Education,University of Kelaniya
+Arts,Economics,Data Scientist,Yes,No,High School,BSc Chemistry,University of Sri Jayewardenepura
+Science,Biology,Doctor,Yes,No,O/L,BSc Data Science,University of Peradeniya
+Science,Mathematics,Engineer,Yes,No,High School,BSc Computer Science,Wayamba University
+Technology,History,Economist,Yes,Yes,High School,BA History,Wayamba University
+Technology,Physics,Teacher,Yes,Yes,O/L,BA Education,University of Moratuwa
+Commerce,Mathematics,Doctor,Yes,No,O/L,MBBS,University of Sri Jayewardenepura
+Science,Biology,Software Developer,Yes,No,High School,MBBS,South Eastern University
+Arts,History,Engineer,Yes,No,High School,BCom Accounting,Eastern University
+Commerce,Computer Science,Data Scientist,Yes,Yes,High School,MBBS,University of Moratuwa
+Science,Economics,Historian,Yes,Yes,High School,BCom Accounting,University of Sri Jayewardenepura
+Arts,Physics,Engineer,Yes,Yes,O/L,BSc Data Science,University of Moratuwa
+Technology,Chemistry,Doctor,Yes,No,High School,BSc Economics,Rajarata University
+Technology,History,Researcher,Yes,No,High School,BA Education,University of Sri Jayewardenepura
+Commerce,Biology,Engineer,Yes,Yes,O/L,BSc Computer Science,University of Kelaniya
+Science,Accounting,Engineer,Yes,No,High School,BSc Data Science,University of Kelaniya
+Arts,Biology,Engineer,Yes,Yes,High School,BSc Chemistry,University of Colombo
+Commerce,Physics,Accountant,Yes,Yes,O/L,MBBS,University of Sri Jayewardenepura
+Commerce,Engineering,Engineer,Yes,Yes,O/L,BA Education,Rajarata University
+Arts,Accounting,Historian,Yes,Yes,O/L,BSc Engineering,Rajarata University
+Commerce,History,Teacher,Yes,Yes,High School,BA Education,Wayamba University
+Commerce,Accounting,Software Developer,Yes,No,O/L,BA History,University of Sri Jayewardenepura
+Science,Chemistry,Historian,Yes,No,O/L,BSc Economics,University of Kelaniya
+Science,Chemistry,Researcher,Yes,No,O/L,BSc Economics,South Eastern University
+Arts,Chemistry,Researcher,Yes,No,O/L,BCom Accounting,University of Moratuwa
+Commerce,Literature,Historian,Yes,No,High School,BA History,University of Kelaniya

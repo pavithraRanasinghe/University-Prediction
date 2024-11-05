@@ -11,6 +11,10 @@ model = joblib.load('university_prediction_model.pkl')
 # Load training columns to maintain the correct feature order
 train_columns = joblib.load('train_columns.pkl')
 
+# Load the dataset to map programs to universities
+df = pd.read_csv('synthetic_university_dataset.csv')
+program_university_mapping = df.set_index('Recommended_Program')['University'].to_dict()
+
 @app.route('/predict', methods=['POST'])
 def predict():
     # Parse input JSON
@@ -28,8 +32,14 @@ def predict():
     top_indices = y_pred_probs[0].argsort()[-10:][::-1]
     top_recommendations = [model.classes_[index] for index in top_indices]
     
-    # Return the top 10 recommendations
-    return jsonify({"Top 10 Recommended Programs": top_recommendations})
+    # Fetch associated universities
+    top_recommendations_with_universities = [
+        {"Program": program, "University": program_university_mapping.get(program, "Unknown")}
+        for program in top_recommendations
+    ]
+    
+    # Return the top 10 recommendations with universities
+    return jsonify({"Top 10 Recommended Programs and Universities": top_recommendations_with_universities})
 
 # Run the Flask app
 if __name__ == '__main__':

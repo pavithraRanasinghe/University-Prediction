@@ -13,7 +13,8 @@ data = {
     "Completed_OL": [],
     "Completed_AL": [],
     "Highest_Qualification": [],
-    "Recommended_Program": []
+    "Recommended_Program": [],
+    "University": []
 }
 
 interests = ["Science", "Commerce", "Arts", "Technology"]
@@ -24,6 +25,10 @@ recommended_programs = [
     "BSc Engineering", "BCom Accounting", "BA Education", "BSc Computer Science", "MBBS",
     "BA History", "BSc Economics", "BSc Data Science", "BSc Chemistry"
 ]
+universities = [
+    "University of Colombo", "University of Sri Jayewardenepura", "University of Kelaniya", "University of Moratuwa",
+    "Rajarata University", "Wayamba University", "University of Peradeniya", "Eastern University", "South Eastern University"
+]
 
 # Generate 100 records
 for _ in range(100):
@@ -33,7 +38,9 @@ for _ in range(100):
     data["Completed_OL"].append("Yes")
     data["Completed_AL"].append(random.choice(["Yes", "No"]))
     data["Highest_Qualification"].append(random.choice(qualifications))
-    data["Recommended_Program"].append(random.choice(recommended_programs))
+    program = random.choice(recommended_programs)
+    data["Recommended_Program"].append(program)
+    data["University"].append(random.choice(universities))
 
 # Create a DataFrame
 df = pd.DataFrame(data)
